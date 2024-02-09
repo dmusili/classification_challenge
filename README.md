@@ -7,3 +7,7 @@ In order to meet the ISP's requirements, we will be creating two classification 
 4) Create a random forest model.
 
 Finally, we will then evaluate which model is more accurate at detecting spam. 
+
+The code in this project is written in Python. It uses the scikit-learn library for the data analysis.
+
+The project can be run on either Visual Studio Code, Jupyter or Collab.
